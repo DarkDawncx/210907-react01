@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 欢迎看看液氨做的垃圾玩应
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
