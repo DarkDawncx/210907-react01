@@ -4,14 +4,15 @@
 警告，本项目二次元浓度很高，谨慎使用，请不要在公共场合打开，避免社死。
 提示，本项目目前是未完成版，很多功能没有实现，很多想法有待完善，请关注后续版本。
 
-## Available Scripts
+## 你目前可以做的
 
-In the project directory, you can run:
+等摸鱼作者更新，说不定哪天就做完了呢？当然你也可以反馈bug，请联系qq。
+（什么？你问我为什么不放qq号？不会真有不认识我的人用我的项目吧？）
 
+##运行代码
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+在编译器中使用该条指令，待编译完成后，在浏览器中打开[http://localhost:3000]即可。
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+希望你玩的开心，愉快。
+（别把我举报了，谢谢）
